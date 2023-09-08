@@ -112,3 +112,33 @@ contentItem21.className = 'contentItem21'
 contentTitle21.append(contentItem21)
 
 contentItem21.innerText = ' +37066666666'
+
+
+let contentTitle22 = document.createElement('div')
+contentTitle22.className = 'contentTitle22'
+
+boxContent2.append(contentTitle22)
+
+contentTitle22.innerText = 'Email:'
+
+let contentItem22 = document.createElement('a')
+contentItem22.className = 'contentItem22'
+
+contentTitle22.append(contentItem22)
+
+contentItem22.innerText = ' shop1@parduotuve.lt'
+
+
+let contentTitle23 = document.createElement('div')
+contentTitle23.className = 'contentTitle23'
+
+boxContent2.append(contentTitle23)
+
+contentTitle23.innerText = 'Address:'
+
+let contentItem23 = document.createElement('a')
+contentItem23.className = 'contentItem23'
+
+contentTitle23.append(contentItem23)
+
+contentItem23.innerText = ' Rotušės aikštė 1, Kaunas'
